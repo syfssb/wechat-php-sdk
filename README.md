@@ -11,7 +11,7 @@ weixin developer SDK.
 微信公众平台： http://mp.weixin.qq.com/wiki/
 微信企业平台： http://qydev.weixin.qq.com/wiki/
 
-微信支付接入文档：
+微信支付接入文档：：
 https://mp.weixin.qq.com/cgi-bin/readtemplate?t=business/course2_tmpl&lang=zh_CN
 
 微信多客服：http://dkf.qq.com
